@@ -20,3 +20,6 @@
 1. Batch Normalization
 2. DropOut layers
 3. Early stopping
+
+
+##
