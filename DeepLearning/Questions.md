@@ -14,3 +14,9 @@
 # LSTM
 1. Embedding layer
 2. Explain different gates in LSTM
+
+
+## Overfitting handling
+1. Batch Normalization
+2. DropOut layers
+3. Early stopping
