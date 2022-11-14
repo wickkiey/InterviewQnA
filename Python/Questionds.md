@@ -40,3 +40,15 @@
 38. write a function to return multiple values 
 39. Create a class and inherit in another class.
 40. How to convert .ipynb file to .py file
+41. check a variable in list or not
+42. change a global variable value from inside a function.
+43. copy vs deepcopy 
+44. generators 
+45. function args and kwargs 
+46. Generate a random list
+47. reverse a list
+48. print last 3 elements in a list
+49. print last 3 elements in a list which are even
+50. merge two dicts. 
+51. merge two lists
+52. find different of two list (uncommon elements in a list)
