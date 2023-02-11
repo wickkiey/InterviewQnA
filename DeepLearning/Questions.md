@@ -4,12 +4,17 @@
 2. What is learning rate, how to define optimal learning rate
 3. What is optimizer
 4. Explain different optimizers
+5. What will happen if we don't include activation function and train the model. 
+6. Dropout in inference 
+7. Implemented any research paper ? 
+8. 
 
 # CNN
 1. Explain CNN
 2. Padding and Stride
 3. Optimal padding and Stride
 4. Padding stride output image size calculations. 
+5. Transpose convolution 
 
 # LSTM
 1. Embedding layer
@@ -23,3 +28,4 @@
 
 
 ##
+1. What is regularization
