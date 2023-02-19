@@ -8,3 +8,4 @@ General interview questions
 4. Machine learning
 5. Deeplearning
 6. MLOPs
+7. Cloud tech stacks
